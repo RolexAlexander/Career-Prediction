@@ -69,6 +69,6 @@ The project successfully met its objectives by leveraging data analysis techniqu
 ## Acknowledgements
 
 - **Lecturer**: Dr. Mihal Miu, for guidance and support throughout the course.
-- **Dataset Provider**: Special thanks to [DevilDyno](https://www.kaggle.com/devildyno) for providing the dataset on Kaggle.
+- **Dataset Provider**: Special thanks to Rugved Patil ([DevilDyno](https://www.kaggle.com/devildyno)) for providing the dataset on Kaggle.
 - **Institution**: Toronto Metropolitan University, for providing the resources and platform to undertake this project.
 
